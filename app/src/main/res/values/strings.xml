@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Registro de personas</string>
+    <string name="regresar">Regresar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="texto_cedula">Cedula</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_estrato">Estrato</string>
+    <string-array name="estrato">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="texto_salario">Salario</string>
+    <string name="texto_nivel_educativo">Nivel educativo</string>
+    <string-array name="nivelEducativo">
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string name="boton_guardar">REGISTRAR</string>
+    <string name="boton_buscar">BUSCAR</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+    <string name="boton_eliminar">ELIMINAR</string>
+    <string name="boton_listado">LISTAR PERSONAS</string>
+</resources>
